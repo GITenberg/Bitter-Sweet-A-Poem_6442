@@ -1,0 +1,26 @@
+_repo: Bitter-Sweet-A-Poem_6442
+creator:
+  author:
+    agent_name: Holland, J. G. (Josiah Gilbert)
+    aliases:
+    - Holland, Josiah Gilbert
+    - Titcomb, Timothy
+    birthdate: 1819
+    deathdate: 1881
+    gutenberg_agent_id: '2046'
+    url: http://www.gutenberg.org/2009/agents/2046
+    wikipedia: http://en.wikipedia.org/wiki/Josiah_Gilbert_Holland
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Bitter-Sweet: A Poem'
+url: http://www.gutenberg.org/ebooks/6442
